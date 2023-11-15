@@ -14,7 +14,7 @@
   <parent>
     <groupId>org.eclipse.cvs</groupId>
     <artifactId>org.eclipse.cvs</artifactId>
-    <version>4.28.0-SNAPSHOT</version>
+    <version>${parent.version}</version>
     <relativePath>..</relativePath>
   </parent>
   <artifactId>org.eclipse.cvs.tests</artifactId>
