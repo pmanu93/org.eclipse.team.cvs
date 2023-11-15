@@ -62,4 +62,18 @@
     <module>tests</module>
    
   </modules>
+
+  <distributionManagement>
+    <repository>
+      <id>repo.eclipse.org</id>
+      <name>Eclipse Repository - Releases</name>
+      <url>https://repo.eclipse.org/content/repositories/eclipse-releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>repo.eclipse.org</id>
+      <name>Eclipse Repository - Snapshots</name>
+      <url>https://repo.eclipse.org/content/repositories/eclipse-snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
+  <pluginRepositories>
 </project>
