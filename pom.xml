@@ -24,7 +24,7 @@
   <packaging>pom</packaging>
 
   <properties>
-    <tycho.scmUrl>scm:git:https://github.com/JAndrassy/org.eclipse.team.cvs</tycho.scmUrl>
+    <tycho.scmUrl>scm:git:https://github.com/pmanu93/org.eclipse.team.cvs</tycho.scmUrl>
     <code.ignoredWarnings>-warn:-deprecation,raw,unchecked,warningToken</code.ignoredWarnings>
   </properties>
 
