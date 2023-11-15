@@ -75,5 +75,4 @@
       <url>https://repo.eclipse.org/content/repositories/eclipse-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
-  <pluginRepositories>
 </project>
